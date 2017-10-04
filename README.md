@@ -1,18 +1,8 @@
-# first project
+# Username Algorithm
 
 
-## fork
+Programmet läser in användare, förnamn och efternamn som sedan skapar unika användarnamn. Användarnamen blir läste från filen users.csv och produkten skrivs ut.
 
-ni ska forka det här projektet
+Skriver ut förnamn och skriver ut efternamnets första bosktav.
 
-
-## clone
-
-öppna det sedan i pycharm
-
-## push
-
-skapa er egen version av nick generator och pusha upp dennna
-
-
-
+Exempel: jon al > jona
