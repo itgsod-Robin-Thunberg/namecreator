@@ -10,4 +10,4 @@ Skriver ut förnamn och skriver ut efternamnets första bosktav med en siffra.
 
 #Exempel
 
-Exempel: jon al > jona
+Exempel: jon al > jona4
