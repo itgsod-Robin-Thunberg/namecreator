@@ -10,5 +10,7 @@ with open('users.csv') as userfile:
 
         nickname = create_nick(firstname, lastname)
 
-        print nickname
+        nr = (len(nickname))
+
+        print (nickname+str(nr))
 
